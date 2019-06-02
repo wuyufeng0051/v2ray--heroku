@@ -47,7 +47,7 @@ cd /root
 mkdir /wwwroot
 cd /wwwroot
 
-wget --no-check-certificate -qO 'demo.tar.gz' "https://github.com/ki8852/v2ray-heroku-undone/raw/master/demo.tar.gz"
+wget --no-check-certificate -qO 'demo.tar.gz' "https://github.com/wuyufeng0051/v2ray--heroku/raw/master/demo.tar.gz"
 tar xvf demo.tar.gz
 rm -rf demo.tar.gz
 
